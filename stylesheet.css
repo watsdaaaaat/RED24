@@ -1,5 +1,6 @@
-font-family: Roboto, sans-serif;
-
+style {
+	font-family: Roboto, sans-serif;
+}
 p {
 	color:purple;
 }
