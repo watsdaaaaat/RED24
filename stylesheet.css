@@ -7,7 +7,7 @@ html, body, #container {
 }
 header {
     height: 50px;
-    background: gray;
+    background: white;
 }
 main {
     height: 100%;
@@ -20,5 +20,11 @@ main {
     background: white;
 }
 .half:last-child {
-    background: red;
+    background: gray;
+}
+.red_box {
+    border: 1px red solid;
+}
+#logo_area {
+    
 }
