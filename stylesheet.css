@@ -22,11 +22,7 @@ main {
 .half:last-child {
     background: gray;
 }
-.red_box {
-    border: 1px red solid;
-    color: white;
-    background: red;
-}
+
 #logo_area {
     
 }
