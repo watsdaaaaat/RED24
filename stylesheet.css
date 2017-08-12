@@ -1,15 +1,15 @@
-columns {
+.columns {
 	display: flex;
 }
  
-column {
+.column {
 	flex: 1;
 	border: 5px solid #ccc;
 	background: #eee;
 	padding: 20px;
 }
  
-main-column {
+.main-column {
 	flex: 2;
 }
 body {
