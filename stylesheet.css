@@ -8,7 +8,7 @@
 }
  
 .main-column {
-	flex: 2;
+	flex: 1;
 }
 body {
 	font-family: 'Roboto', sans-serif;
@@ -18,6 +18,9 @@ p {
 }
 li {
     text-decoration:none;
+    display:inline;
+    list-style:none;
+
 }
 .menu {
     display:inline;
