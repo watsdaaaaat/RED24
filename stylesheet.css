@@ -5,7 +5,6 @@
 .column {
 	flex: 1;
 	background: #ff0000;
-	padding: 20px;
 }
  
 .main-column {
@@ -16,4 +15,11 @@ body {
 }
 p {
 	color:purple;
+}
+li {
+    text-decoration:none;
+}
+.menu {
+    display:inline;
+    list-style:none;
 }
