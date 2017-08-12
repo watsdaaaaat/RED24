@@ -11,14 +11,14 @@ header {
 }
 main {
     height: 100%;
-    background: green;
+    background: red;
 }
 .half {
     height: 50%;
 }
 .half:first-child {
-    background: blue;
+    background: white;
 }
 .half:last-child {
-    background: yellow;
+    background: red;
 }
