@@ -1,28 +1,2 @@
-.columns {
-	display: flex;
-}
- 
-.column {
-	flex: 1;
-	background: #ff0000;
-}
- 
-.main-column {
-	flex: 1;
-}
 body {
 	font-family: 'Roboto', sans-serif;
-}
-p {
-	color:purple;
-}
-li {
-    text-decoration:none;
-    display:inline;
-    list-style:none;
-
-}
-.menu {
-    display:inline;
-    list-style:none;
-}
