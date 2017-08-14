@@ -5,22 +5,24 @@ html, body, #page {
     height: 100%;
     font-family: 'Roboto', sans-serif;
 }
-header {
-    height: 50px;
-    background: white;
 }
 .page {
     display: flex;
     flex-direction: column;
 }
-.main {
+header {
+    height: 50px;
+    background: white;
+    flex-direction: row;
+}
+main {
     flex:1 0 auto;
     background-color: red;
 }
-.main2 {
+main2 {
     flex:1 0 auto;
     background-color: white;
 }
-.nav {
+nav {
     text-decoration: none
 }
