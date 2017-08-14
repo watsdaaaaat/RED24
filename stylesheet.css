@@ -11,9 +11,7 @@ html, body, #page {
     flex-direction: column;
 }
 header {
-    height: 50px;
     background: white;
-    flex-direction: row;
 }
 main {
     flex:1 0 auto;
