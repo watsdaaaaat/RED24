@@ -1,7 +1,7 @@
 * {
     margin: 0; padding: 0;
 }
-html, body, #container {
+html, body, #page {
     height: 100%;
     font-family: 'Roboto', sans-serif;
 }
@@ -9,20 +9,15 @@ header {
     height: 50px;
     background: white;
 }
+.page {
+    display: flex;
+    flex-direction: column;
+}
 main {
-    height: 100%;
-    background: red;
+    flex:1 0 auto;
+    background-color: red;
 }
-.half {
-    height: 50%;
-}
-.half:first-child {
-    background: white;
-}
-.half:last-child {
-    background: gray;
-}
-
-#logo_area {
-    
+main2 {
+    flex:1 0 auto;
+    background-color: white;
 }
