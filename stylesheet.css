@@ -13,11 +13,14 @@ header {
     display: flex;
     flex-direction: column;
 }
-main {
+.main {
     flex:1 0 auto;
     background-color: red;
 }
-main2 {
+.main2 {
     flex:1 0 auto;
     background-color: white;
+}
+.nav {
+    text-decoration: none
 }
