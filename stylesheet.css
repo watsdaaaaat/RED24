@@ -18,7 +18,7 @@ main2 {
     flex:1 0 auto;
     background-color: white;
 }
-nav {
+.nav {
     text-decoration: none
 }
 footer {
