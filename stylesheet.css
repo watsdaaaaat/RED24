@@ -18,8 +18,9 @@ main2 {
     flex:1 0 auto;
     background-color: white;
 }
-.nav {
-    text-decoration: none
+nav {
+    text-decoration: none;
+    float: right;
 }
 footer {
     background-color: gray;
